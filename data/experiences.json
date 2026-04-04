@@ -1,27 +1,50 @@
 {
-  "title": "Experiences",
+  "title": "Experience",
   "icon": "bi bi-briefcase",
-  "list": [{
-      "position": "Job Title",
-      "dates": "2022 - *Present*",
-      "url": "#",
-      "company": "Company Name"
+  "list": [
+    {
+      "position": "Life Sciences Computing Intern",
+      "dates": "Jun 2025 – Aug 2026",
+      "company": "Texas Advanced Computing Center (TACC)",
+      "url": "https://tacc.utexas.edu"
     },
     {
-      "position": "Job Title",
-      "dates": "2019 - 2022",
-      "company": "Company Name",
-      "details": [
-        "Printed from desktop. Sent [emails](#). Called people *using* telephone.",
-        "Drank water from office cooler.",
-        "Ate donuts on people's birthdays."
-      ]
+      "position": "Postdoctoral Fellow",
+      "dates": "Jun 2024 – May 2025",
+      "company": "Meyers Lab, UT Austin",
+      "url": "https://www.bio.utexas.edu/research/meyers/"
     },
     {
-      "position": "Job Title",
-      "dates": "2018 - 2019",
-      "url": "#",
-      "company": "Company Name"
+      "position": "Data Analyst",
+      "dates": "Jun 2024 – Aug 2024",
+      "company": "Periva (Tech Startup)"
+    },
+    {
+      "position": "Teaching Assistant – Computational Biology",
+      "dates": "Aug 2022 – May 2023",
+      "company": "UT Austin"
+    },
+    {
+      "position": "Graduate Researcher – UT Austin COVID-19 Modeling Consortium",
+      "dates": "Sep 2019 – May 2024",
+      "company": "UT CMC",
+      "url": "https://covid-19.tacc.utexas.edu"
+    },
+    {
+      "position": "Graduate Researcher",
+      "dates": "Jun 2021 – Aug 2023",
+      "company": "Narasimhan Lab, UT Austin"
+    },
+    {
+      "position": "Instructional Assistant – Functional/Organismal Biology",
+      "dates": "Sep 2016 – Dec 2018",
+      "company": "Texas State University"
+    },
+    {
+      "position": "Undergraduate Researcher",
+      "dates": "Jan 2012 – Jun 2014",
+      "company": "Computational Infrastructure for Geodynamics, UC Davis",
+      "url": "https://geodynamics.org"
     }
   ]
 }

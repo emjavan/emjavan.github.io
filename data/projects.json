@@ -1,26 +1,31 @@
 {
-  "title": "Projects",
+  "title": "Projects & Outreach",
   "icon": "bi bi-kanban",
   "list": [
     {
-      "title": "Project 1",
-      "url": "#",
-      "description": "Description of the project"
+      "title": "Pandemic Exercise Simulator",
+      "url": "https://github.com/TACC/PandemicExerciseTool",
+      "description": "Scenario modeling tool for pandemic planning developed at TACC. Presented as a tutorial at the epiENGAGE All Site Meeting at UT Austin (2026)."
     },
     {
-      "title": "Project 2",
-      "url": "#",
-      "description": "Description of the project"
+      "title": "COVID-19 Burden & Vaccination Dashboard – Austin, TX",
+      "url": "https://covid-19.tacc.utexas.edu/dashboards/austin-risk-maps/",
+      "description": "Interactive dashboard tracking COVID-19 spatial burden and vaccination rates across Austin, TX. Developed with the UT Austin COVID-19 Modeling Consortium."
     },
     {
-      "title": "Project 3",
-      "url": "#",
-      "description": "Description of the project"
+      "title": "Mapping COVID-19 Data with R",
+      "url": "https://github.com/emjavan/data_donuts",
+      "description": "Tutorial on geospatial visualization of COVID-19 data in R. Presented at Data & Donuts at UT Austin (2020)."
     },
     {
-      "title": "Project 4",
-      "url": "#",
-      "description": "Description of the project"
+      "title": "National Student Data Corps – Data Science Panel",
+      "url": "https://youtu.be/km0Qkl0o4W0",
+      "description": "Panelist for the January 2023 Data Science Panel Series hosted by the National Student Data Corps."
+    },
+    {
+      "title": "R Tutorial: Analyzing COVID-19 Vaccine Data",
+      "url": "https://www.youtube.com/watch?v=KJaJLb6LkAg",
+      "description": "Educational tutorial on plotting and analyzing COVID-19 vaccine data in R. Presented for Laredo College LEAPS (2021)."
     }
   ]
 }

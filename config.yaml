@@ -2,13 +2,13 @@ baseURL: /
 languageCode: en-us
 build:
   writeStats: true
-title: aafu theme
+title: Emily M Javan, PhD
 # Uncomment below to use aafu as hugo theme. See instructions in README.md
 theme: aafu
 
 params:
-  author: Darshan Baral
-  description: Website title
+  author: Emily M Javan
+  description: Computational Epidemiologist & Data Scientist
   copyright: powered by [hugo](https://gohugo.io/)
   theme:
     mainTheme: null
@@ -24,3 +24,4 @@ params:
     - item: skills
       panel_id: skill-panel
     - item: hobbies
+      label: Volunteer & Service

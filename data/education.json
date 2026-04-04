@@ -3,23 +3,21 @@
   "icon": "bi bi-mortarboard",
   "list": [
     {
-      "degree": "Ph.D. in Subject",
-      "college": "University of State-City",
-      "dates": "2013 - 2018",
-      "thesis_title": "Effect of humans on other humans: a study of human behavior.",
-      "thesis_url": "#"
+      "degree": "PhD – Ecology, Evolution & Behavior",
+      "college": "University of Texas at Austin",
+      "dates": "2019 – 2024",
+      "thesis_title": "Modeling heterogeneities in disease risk: Mapping COVID-19 and identifying osteoarthritis"
     },
     {
-      "degree": "M.S. in Subject",
-      "college": "University of State-City",
-      "dates": "2013 - 2018",
-      "thesis_title": "Effect of humans on other humans: a study of human behavior.",
-      "thesis_url": "#"
+      "degree": "MS – Population and Conservation Biology",
+      "college": "Texas State University",
+      "dates": "2016 – 2018",
+      "thesis_title": "Classification of small-mammal metacommunity structures along elevational gradients with connections to metacommunity networks"
     },
     {
-      "degree": "B.S. in Subject",
-      "college": "University of State-City",
-      "dates": "2004 - 2009"
+      "degree": "BS – Applied Mathematics, Minor - Ecology, Evolution & Biodiversity",
+      "college": "University of California, Davis",
+      "dates": "2009 – 2014"
     }
   ]
 }

@@ -1,15 +1,12 @@
 {
-  "title": "Hobbies",
-  "icon": "bi bi-controller",
+  "title": "Volunteer & Service",
+  "icon": "bi bi-heart",
   "list": [
-    {
-      "hobby": "Cooking"
-    },
-    {
-      "hobby": "Hiking"
-    },
-    {
-      "hobby": "Baking"
-    }
+    { "hobby": "City of Austin Zero Waste Block Leader" },
+    { "hobby": "Science Under the Stars at UT Austin – President & Member" },
+    { "hobby": "US AP Biology Olympiad Question Writer" },
+    { "hobby": "Machine Learning and Ethics" },
+    { "hobby": "Mathematics Club at UC Davis – President & Treasurer" },
+    { "hobby": "Electronic Music for Change at UC Davis – Treasurer" }
   ]
 }

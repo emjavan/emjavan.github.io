@@ -2,29 +2,78 @@
   "title": "Publications",
   "icon": "bi bi-book",
   "format": ["date", "authors", "title", "journal"],
-  "delimiter": "; ",
-  "types": ["Journal Articles", "Proceedings"],
+  "delimiter": ". ",
+  "types": ["Journal Articles", "Reports"],
   "list": [
     {
-      "title": "[*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua*](#)",
-      "authors": "F Last, *F Second*, P secondary",
-      "date": "2018",
-      "journal": "Journal of Field 52 (16), 9033-9044",
+      "title": "Measuring maternal healthcare accessibility in Florida by a data-driven extension of V2SFCA",
+      "authors": "Li H., F. Wang, R. Zhang, A. Qin, *E.M. Javan*, R. Reddy, L. Harper, P. Hung, Y. Kang",
+      "date": "2026",
+      "journal": "[*Health & Place*. doi: 10.1016/j.healthplace.2026.103608](https://doi.org/10.1016/j.healthplace.2026.103608)",
       "type": "Journal Articles"
     },
     {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "authors": "F Last, F Second, P secondary",
-      "date": "2018",
-      "journal": "[Journal of Field 52 (16), 9033-9044](#)",
+      "title": "Improving outbreak forecasts through model augmentation",
+      "authors": "Gibson G.C., S.J. Fox, *E.M. Javan*, S.E. Ptak, O.M. Ibrahim, M. Lachmann, L.A. Meyers",
+      "date": "2025",
+      "journal": "[*Proceedings of the National Academy of Sciences*. doi: 10.1073/pnas.2508575122](https://doi.org/10.1073/pnas.2508575122)",
       "type": "Journal Articles"
     },
     {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "authors": "F Last, F Second, P secondary",
-      "date": "2018",
-      "journal": "Journal of Field 52 (16), 9033-9044",
-      "type": "Proceedings"
+      "title": "Deep learning based phenotyping of medical images improves power for gene discovery of complex disease",
+      "authors": "Flynn B.I., *E.M. Javan*, E. Lin, Z. Trutner, K. Koenig, K.O. Anighoro, E. Kun, A. Gupta, T. Singh, P. Jayakumar, V.M. Narasimhan",
+      "date": "2023",
+      "journal": "[*npj Digital Medicine*. doi: 10.1038/s41746-023-00903-x](https://doi.org/10.1038/s41746-023-00903-x)",
+      "type": "Journal Articles"
+    },
+    {
+      "title": "The genetic architecture of the human skeletal form",
+      "authors": "Kun E., *E.M. Javan*, O. Smith, F. Gulamali, J.D.L. Fuente, B.I. Flynn, K. Vajrala, Z. Trutner, P. Jayakumar, E.M. Tucker-Drob, M. Sohail, T. Singh, V.M. Narasimhan",
+      "date": "2023",
+      "journal": "[*Science*. doi: 10.1126/science.adf8009](https://doi.org/10.1126/science.adf8009)",
+      "type": "Journal Articles"
+    },
+    {
+      "title": "Disproportionate impacts of COVID-19 in a large US city",
+      "authors": "Fox S.J., *E.M. Javan*, R.F. Pasco, G.C. Gibson, B. Betke, J.L.H. Diestra, S. Woody, K. Pierce, K.E. Johnson, M. Johnson-León, M. Lachmann, L.A. Meyers",
+      "date": "2023",
+      "journal": "[*PLOS Computational Biology*. doi: 10.1371/journal.pcbi.1011149](https://doi.org/10.1371/journal.pcbi.1011149)",
+      "type": "Journal Articles"
+    },
+    {
+      "title": "Estimating the undetected emergence of COVID-19 in the US",
+      "authors": "*Javan E.M.*, S.J. Fox, L.A. Meyers",
+      "date": "2023",
+      "journal": "[*PLOS One*. doi: 10.1371/journal.pone.0284025](https://doi.org/10.1371/journal.pone.0284025)",
+      "type": "Journal Articles"
+    },
+    {
+      "title": "Real-time pandemic surveillance using hospital admissions and mobility data",
+      "authors": "Fox S.J., M. Lachmann, M. Tec, R.F. Pasco, S. Woody, Z. Du, X. Wang, T.A. Ingle, *E.M. Javan*, M. Dahan, K. Gaither, M.E. Escott, S.I. Adler, S.C. Johnston, J.G. Scott, L.A. Meyers",
+      "date": "2022",
+      "journal": "[*Proceedings of the National Academy of Sciences*. doi: 10.1073/pnas.2111870119](https://doi.org/10.1073/pnas.2111870119)",
+      "type": "Journal Articles"
+    },
+    {
+      "title": "Using the COVID-19 to influenza ratio to estimate early pandemic spread in Wuhan, China and Seattle, US",
+      "authors": "Du Z., *E.M. Javan*, C. Nugent, B.J. Cowling, L.A. Meyers",
+      "date": "2020",
+      "journal": "[*eClinicalMedicine*. doi: 10.1016/j.eclinm.2020.100479](https://doi.org/10.1016/j.eclinm.2020.100479)",
+      "type": "Journal Articles"
+    },
+    {
+      "title": "Spatial distribution of COVID-19 infections and vaccinations in Austin, Texas",
+      "authors": "Woody S., *E.M. Javan*, K. Johnson, R.F. Pasco, M. Johnson-León, M. Lachmann, S.J. Fox, L.A. Meyers",
+      "date": "2021",
+      "journal": "[UT Austin COVID-19 Modeling Consortium. doi: 10.15781/h5sx-q859](https://doi.org/10.15781/h5sx-q859)",
+      "type": "Reports"
+    },
+    {
+      "title": "Heterogeneous burden of the COVID-19 pandemic in Central Texas",
+      "authors": "*Javan E.M.*, E. Kushnereit, B. Betke, S. Woody, R.F. Pasco, K. Pierce, K. Johnson, M. Johnson-León, M. Lachmann, S.J. Fox, L.A. Meyers",
+      "date": "2021",
+      "journal": "[UT Austin COVID-19 Modeling Consortium. doi: 10.15781/m60y-tc90](https://doi.org/10.15781/m60y-tc90)",
+      "type": "Reports"
     }
   ]
 }

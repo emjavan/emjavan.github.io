@@ -4,16 +4,36 @@
   "icon": "bi bi-list-check",
   "list": [
     {
-      "skill": "Skill 1, Skill 2",
+      "skill": "Infectious Disease Modeling (compartmental, stochastic, Bayesian)",
+      "skillrating": 95
+    },
+    {
+      "skill": "R, Python, JAGS",
       "skillrating": 90
     },
     {
-      "skill": "Skill 3",
+      "skill": "Geospatial Analysis & Mapping",
+      "skillrating": 90
+    },
+    {
+      "skill": "Reproducible Research, Git/GitHub, GitFlow",
+      "skillrating": 88
+    },
+    {
+      "skill": "Bash, Linux, Workflow Automation",
       "skillrating": 80
     },
     {
-      "skill": "Skill 4",
-      "skillrating": 50
+      "skill": "HPC, Docker, Singularity",
+      "skillrating": 78
+    },
+    {
+      "skill": "PostgreSQL & Database Design",
+      "skillrating": 72
+    },
+    {
+      "skill": "IRB/HIPAA-compliant Data Handling",
+      "skillrating": 85
     }
   ]
 }
