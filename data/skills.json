@@ -9,7 +9,7 @@
     },
     {
       "skill": "R, Python, JAGS",
-      "skillrating": 90
+      "skillrating": 99
     },
     {
       "skill": "Geospatial Analysis & Mapping",
@@ -17,19 +17,19 @@
     },
     {
       "skill": "Reproducible Research, Git/GitHub, GitFlow",
-      "skillrating": 88
+      "skillrating": 97
     },
     {
       "skill": "Bash, Linux, Workflow Automation",
-      "skillrating": 80
+      "skillrating": 95
     },
     {
       "skill": "HPC, Docker, Singularity",
-      "skillrating": 78
+      "skillrating": 90
     },
     {
       "skill": "PostgreSQL & Database Design",
-      "skillrating": 72
+      "skillrating": 60
     },
     {
       "skill": "IRB/HIPAA-compliant Data Handling",
